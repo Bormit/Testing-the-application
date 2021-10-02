@@ -5,14 +5,14 @@ Caliburn.Micro версия: 3.2 (Устанавливается с Nuget в Vis
 
 Функционал: +, -, *, /
 
-### Examples
-#### Homepage:
+### Примеры:
+#### Домашняя страница:
 ![Main Page](https://raw.githubusercontent.com/yanglr/CaliburnMicro-Calculator/master/screenshots/p1.png)
 
-#### Multiply:
+#### Умножение:
 ![Multiply](https://raw.githubusercontent.com/yanglr/CaliburnMicro-Calculator/master/screenshots/p2.png)
 
-#### Divide:
+#### Деление:
 ![Divide](https://raw.githubusercontent.com/yanglr/CaliburnMicro-Calculator/master/screenshots/p3.png)
 
 <br/>
