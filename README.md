@@ -16,5 +16,3 @@ Caliburn.Micro версия: 3.2 (Устанавливается с Nuget в Vis
 ![Divide](https://raw.githubusercontent.com/yanglr/CaliburnMicro-Calculator/master/screenshots/p3.png)
 
 <br/>
-
-欢迎访问作者的个人网站: [极客中心](https://www.geekzl.com)
